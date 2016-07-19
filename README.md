@@ -1,1 +1,1 @@
-# Chrome MSI Installer
+# Chrome MSI installer package
