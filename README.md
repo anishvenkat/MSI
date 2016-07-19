@@ -1,1 +1,1 @@
-# Google MSI installer
+# Chrome MSI Installer
